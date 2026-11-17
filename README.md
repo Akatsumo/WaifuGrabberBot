@@ -1,7 +1,7 @@
 <h1 align="center">ᴡᴀɪꜰᴜ ɢʀᴀʙʙᴇʀ ʙᴏᴛ</h1>
 
 <p align="center">
-  <img src="https://media.animerealms.org/image/AgACAgUAAx0EboWBewAC0BtplqHQCOjxeRga-VXIGOSD1pkNkwACEw5rG1zpuVSZRvn7c_fYRgEAAwIAA3kAAzoE" width="260"/>
+  <img src="https://files.catbox.moe/bvsut6.jpg" width="260"/>
 </p>
 
 <p align="center">
